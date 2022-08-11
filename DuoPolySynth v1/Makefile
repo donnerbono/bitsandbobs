@@ -1,8 +1,8 @@
 # Project Name
-TARGET = dualpolysynth
+TARGET = duopolysynth
 
 # Sources
-CPP_SOURCES = dualpolysynth.cpp
+CPP_SOURCES = duopolysynth.cpp
 
 # Library Locations
 LIBDAISY_DIR ?= ../../../libDaisy
